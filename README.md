@@ -2,7 +2,7 @@
 
 Here's two swift Playgrounds in Xcode format. One's a UIKit and the other SwiftUI Template file to help with setting up Swift Playgrounds. 
 
-In case you are on an iPad and unable to unzip the files, you can cut and paste the cde as well, that I've written below. Just get a blank Xcode template and cut and paste the code.
+In case you are on an iPad and unable to unzip the files, you can cut and paste the code as well, that I've written below. Just get a blank Xcode template on your iPad and cut and paste the code.
 
 ## SwiftUI Template 
 
